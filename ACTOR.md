@@ -1,4 +1,4 @@
-# Redgifs Downloader
+# Redgifs Downloader Browser Extension
 
 > Download Redgifs clips and short videos as MP4 files from supported pages.
 
