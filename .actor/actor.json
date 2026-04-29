@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "redgifs-downloader",
   "readme": "../ACTOR.md",
-  "title": "Redgifs Downloader Browser Extension",
+  "title": "Redgifs Downloader",
   "version": "0.0"
 }
