@@ -1,8 +1,12 @@
-# Redgifs Downloader
+# RedGifs Video Downloader | How to Download RedGifs Videos
 
 > Download Redgifs clips and short videos as MP4 files from supported pages.
 
-![Redgifs Downloader](https://raw.githubusercontent.com/serpxxx/redgifs-downloader/main/assets/workflow-preview.webp)
+## Get it Here
+
+Get it here: https://serp.ly/redgifs-downloader
+
+![RedGifs Downloader](https://raw.githubusercontent.com/serpxxx/redgifs-downloader/main/assets/workflow-preview.webp)
 
 Redgifs Downloader is a browser extension for users who want a faster way to save Redgifs clips without relying on screen recordings or page-inspection tricks. It detects supported Redgifs media from watch pages and feed cards, then lets you export the result as MP4 for offline viewing.
 
@@ -11,11 +15,6 @@ Redgifs Downloader is a browser extension for users who want a faster way to sav
 - Export MP4 files for broader compatibility than looping embeds
 - Keep the workflow simple and browser-based
 - Avoid losing access when posts are removed later
-
-## Get it Here
-
-Get it here: https://serp.ly/redgifs-downloader
-
 ## Table of Contents
 
 - [Why Redgifs Downloader](#why-redgifs-downloader)
