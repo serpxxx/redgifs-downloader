@@ -1,10 +1,10 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Redgifs Downloader is a browser extension that adds a download button to RedGifs (redgifs.com) pages so you can save GIFs and short videos for offline viewing. It works on watch pages, explore/feed grids, and embedded players, with auto-detection that makes downloads a single click.\n\nUse it to protect favorites before posts are removed, build a personal library of clips, and avoid losing access when accounts are deleted or content disappears. It supports MP4 and HLS sources when available and keeps downloads consistent across RedGifs page types.\n\nThe extension is privacy-friendly with no tracking or data collection, and it runs on Chrome, Firefox, Edge, Opera, and Brave across Windows, macOS, and Linux.",
+  "description": "RedGifs Downloader helps users save accessible videos for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "redgifs-downloader",
   "readme": "../ACTOR.md",
-  "title": "Redgifs Downloader",
+  "title": "RedGifs Video Downloader | How to Download RedGifs Videos",
   "version": "0.0"
 }
